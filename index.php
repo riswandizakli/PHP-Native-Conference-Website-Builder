@@ -6,7 +6,7 @@ require_once("auth.php");
 <html lang="en">
 <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<title>Dashboard Chair Cosite by Akademisi </title>
+<title>Dashboard Chair Cosite by Akademisi V2</title>
 	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
 	<link rel="icon" href="assetsdash/img/icon.ico" type="image/x-icon"/>
 
